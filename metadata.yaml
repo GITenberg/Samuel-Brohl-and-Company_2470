@@ -1,0 +1,27 @@
+_repo: Samuel-Brohl-and-Company_2470
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cherbuliez, Victor
+    alias: Cherbuliez, Charles Victor
+    birthdate: 1829
+    deathdate: 1899
+    gutenberg_agent_id: '927'
+    url: http://www.gutenberg.org/2009/agents/927
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Cherbuliez
+description: ''
+gutenberg_issued: '2006-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Switzerland -- Fiction'
+- GITenberg
+title: Samuel Brohl and Company
+url: http://www.gutenberg.org/ebooks/2470
